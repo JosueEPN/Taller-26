@@ -1,0 +1,5 @@
+Arreglo Ingresado: {1 2 3 4 5 6 7 5 13 10 }
+Arreglo Ordenado: {1 2 3 4 5 5 6 7 10 13 }
+Numero: a buscar: 13
+
+Elemento encontrado en la posicion: 10
